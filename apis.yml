@@ -1,0 +1,32 @@
+aid: mail-gw
+name: mail.gw
+description: "10 Minute Mail"
+url: https://docs.mail.gw
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Email"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Email
+  - Public APIs
+apis:
+  - name: mail.gw
+    description: "10 Minute Mail"
+    humanURL: https://docs.mail.gw
+    baseURL: https://docs.mail.gw
+    tags:
+      - Email
+    properties:
+      - type: Documentation
+        url: https://docs.mail.gw
+common:
+  - type: Website
+    url: https://docs.mail.gw
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
