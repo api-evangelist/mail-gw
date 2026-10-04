@@ -39,7 +39,6 @@ apis:
   - name: mail.gw
     description: "10 Minute Mail"
     humanURL: https://docs.mail.gw
-    baseURL: https://docs.mail.gw
     tags:
       - Email
     properties:
